@@ -1,0 +1,1 @@
+Este seria el ultimo ejemplo, se supone que con "git add ." se agregan varios archivos al stage
